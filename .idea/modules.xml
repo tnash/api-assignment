@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api-assignment.iml" filepath="$PROJECT_DIR$/api-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-assignment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-assignment_main.iml" group="api-assignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-assignment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-assignment_test.iml" group="api-assignment" />
     </modules>
   </component>
 </project>
